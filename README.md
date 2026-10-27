@@ -2,6 +2,8 @@
 
 An intelligent, early-warning decision-support system designed to estimate the risk of burnout among students. This project leverages a calibrated machine learning model to analyze academic, lifestyle, and psychosocial indicators, providing users with an instant risk assessment and personalized, categorized recommendations.
 
+APP URL:-https://burnoutdetection.streamlit.app/
+
 ## 🚀 Key Features
 
 - **Interactive Streamlit Dashboard**: A user-friendly interface with tabbed input sections for reduced cognitive load.
